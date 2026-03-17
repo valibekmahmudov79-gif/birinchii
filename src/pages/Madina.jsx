@@ -159,7 +159,7 @@ export default function Madina() {
 
      
       <div className="w-full h-[80px] flex items-center justify-center text-[14px] border-t">
-        Учебно-методический центр «Эгершельд»
+        Учебно-методически центр «Эгершельд»
       </div>
     </div>
   );
